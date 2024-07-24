@@ -9,3 +9,5 @@ public static int findDuplicate(int[] nums) {
         }
         return len;
     }
+
+Time complexity= O(n)
